@@ -1,0 +1,17 @@
+.contenedor{
+    max-width: auto;
+    display: flex;
+
+}
+.contenedor h1{
+    justify-content: center;
+    text-align: center;
+    color: rgb(161, 91, 12);
+}
+
+
+.nav{
+    display:flex;
+    align-items: auto;
+    font-size: large;
+}
